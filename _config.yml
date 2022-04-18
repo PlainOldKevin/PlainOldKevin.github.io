@@ -1,0 +1,6 @@
+name: Example-Website
+title: Kevin Conway
+description: A website showcasing Kevin Conway's work and experience
+remote_theme: "dracula/gh-pages"
+plugins:
+ - jemoji
